@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /thank-you/
+Disallow: /form-submissions/
+
+# Add your sitemap location - TO BE UPDATED WHEN LAUNCHED
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Prevent crawling of user-generated content (in future)
+Disallow: /user-stories/draft/
